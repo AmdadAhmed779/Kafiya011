@@ -31,14 +31,14 @@ module.exports = {
                 message.unsend(waitMsg.messageID);
             }, 4000); // Unsend after 4 seconds
 
-            const botName = "𝗠𝗔𝗛𝗔𝗕𝗨𝗕-𝗕𝗢𝗧";
-            const botPrefix = "/";
-            const authorName = "𝗠𝗔𝗛𝗔𝗕𝗨𝗕 𝗥𝗔𝗛𝗠𝗔𝗡";
-            const authorFB = "https://www.facebook.com/www.xnxx.com140";  
-            const authorInsta = "@mahabub_rahman_404";
+            const botName = "──AS OME──😘😈🪼🩶🪽󱢏";
+            const botPrefix = "?";
+            const authorName = "──AS OME──😘😈🪼🩶🪽󱢏";
+            const authorFB = "https://www.facebook.com/asome.31968";  
+            const authorInsta = "@OMI AHMED ";
             const status = "𝚂𝙸𝙽𝙶𝙻𝙴..!";
 
-            const now = moment().tz('Asia/Dhaka');
+            const now = moment().tz('Asia/narail');
             const date = now.format('dddd, MMMM Do YYYY');
             const time = now.format('h:mm:ss A');
 
